@@ -1,7 +1,0 @@
-{
-  "MONGO_URI": "mongodb+srv://faizan:faizan@cluster0.y2bbh.mongodb.net/myBlog?retryWrites=true&w=majority",
-  "accessTokenSecret": "dfgd456dfgd",
-  "refreshTokenSecret": "sad4332rsfsf",
-  "accessTokenExpiry": "120s",
-  "refreshTokenExpiry": "84600s"
-}
